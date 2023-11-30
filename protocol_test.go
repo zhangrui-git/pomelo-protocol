@@ -1,4 +1,4 @@
-package pomelo_protocol
+package pomelo
 
 import (
 	"encoding/binary"
