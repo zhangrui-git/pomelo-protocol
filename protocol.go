@@ -1,4 +1,4 @@
-package protocol
+package pomelo_protocol
 
 const (
 	PkgHeadBytes = 4
